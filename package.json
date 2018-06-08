@@ -19,7 +19,7 @@
     "prepublish": "ember ts:precompile"
   },
   "dependencies": {
-    "ember-browserify": "^1.2.2",
+    "ember-auto-import": "^0.1.0",
     "ember-cli-babel": "^6.14.1",
     "firebase": "^5.0.4"
   },

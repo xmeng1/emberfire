@@ -2,7 +2,7 @@ import Controller from '@ember/controller';
 import Ember from 'ember';
 
 const { inject: { service }} = Ember;
-import { default as firebase } from 'npm:firebase/app';
+import { default as firebase } from 'firebase/app';
 
 export default Controller.extend({
     session: service(),

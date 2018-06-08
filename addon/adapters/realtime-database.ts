@@ -4,7 +4,7 @@ import RSVP from 'rsvp';
 import Ember from 'ember';
 import { DS } from 'ember-data';
 
-import 'npm:firebase/database';
+import 'firebase/database';
 
 import { inject as service } from '@ember/service';
 import { get } from '@ember/object';

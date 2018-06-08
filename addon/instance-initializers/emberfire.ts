@@ -1,4 +1,4 @@
-import firebase from 'npm:firebase/app';
+import firebase from 'firebase/app';
 
 export default {
     name: 'emberfire',
